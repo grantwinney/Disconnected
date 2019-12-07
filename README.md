@@ -4,3 +4,4 @@ Whenever I try to [close online accounts](https://grantwinney.com/when-you-close
 
 * [Spotify](https://support.spotify.com/us/account_payment_help/account_help/close-account/)
 * [Tumblr](https://www.tumblr.com/account/delete)
+* [Twitter](https://twitter.com/settings/deactivate)
