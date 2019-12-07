@@ -9,4 +9,4 @@ Whenever I try to [close online accounts](https://grantwinney.com/when-you-close
 ### [Twitter](https://twitter.com/settings/deactivate)
 
 ### [Uphold](https://support.uphold.com/hc/en-us/articles/115005420646-How-do-I-cancel-my-account-)
-Someone wins the awful user experience award. Involves the creation of a _separate_ account on their support site, in order to submit a request to delete the original account.
+One of the weirdest processes. While submitting a "ticket" to close my account, it asked me to create a _separate_ account on their support site. I declined. 5 minutes later I got three separate emails, telling me they received my request (huh?), my account was now closed (okay...), and my account was suspended due to a security risk but I could open another ticket to ask why (what?!?!).
