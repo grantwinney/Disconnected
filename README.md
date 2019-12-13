@@ -15,3 +15,5 @@ One of the weirdest processes. While submitting a "ticket" to close my account, 
 
 ### [Walmart](https://help.walmart.com/app/ask)
 Click on the different help "tiles" until a section shows up below with links for chatting, sending an email, etc. Ask support to close your account. They responded within the hour and had cancelled my account. [[Help](https://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account)]
+
+### [Yahoo](https://en-global.help.yahoo.com/kb/SLN2044.html)
